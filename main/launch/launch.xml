@@ -1,0 +1,31 @@
+
+<launch>
+
+    <node pkg="activity02_py" exec="number" name="number_publish">
+        <remap from="number" to="my_number123" />
+        <param from="$(find-pkg-share main)/config/params.yaml"/>
+    </node>
+
+    <node pkg="activity02_py" exec="number_counter" name="number_count">
+        <remap from="number" to="my_number123" />
+    </node>
+
+    <node pkg="activity02_py" exec="number" name="number_publish_123">
+        <remap from="number" to="my_number123123" />
+        <param from="$(find-pkg-share main)/config/params.yaml"/>
+    </node>
+
+    <node pkg="activity02_py" exec="number_counter" name="number_count_123">
+        <remap from="number" to="my_number123123" />
+    </node>
+
+    <node pkg="activity02_py" exec="number" name="number_publish_456">
+        <remap from="number" to="my_number456" />
+        <param from="$(find-pkg-share main)/config/params.yaml"/>
+    </node>
+
+    <node pkg="activity02_py" exec="number_counter" name="number_count_456">
+        <remap from="number" to="my_number456" />
+    </node>
+
+</launch>
