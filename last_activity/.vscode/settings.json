@@ -1,0 +1,29 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/thpdev/ROS2/workspaces/begin/install/python_pkg/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/custom_ros_interfaces/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity04/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity04_custom_interfaces/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity02_py/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/thpdev/ROS2/workspaces/begin/install/python_pkg/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/custom_ros_interfaces/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity04/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity04_custom_interfaces/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/install/activity02_py/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
