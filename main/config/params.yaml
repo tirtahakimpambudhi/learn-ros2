@@ -1,0 +1,15 @@
+/number_publish:
+  ros__parameters:
+    number: 6
+    timer_period: 1.9
+
+
+/number_publish_123:
+  ros__parameters:
+    number: 4
+    timer_period: 2.3
+
+/number_publish_456:
+  ros__parameters:
+    number: 7
+    timer_period: 6.7
