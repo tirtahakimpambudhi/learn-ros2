@@ -1,0 +1,27 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/thpdev/ROS2/workspaces/begin/build/message_subscriber",
+        "/home/thpdev/ROS2/workspaces/begin/install/message_subscriber/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/build/message_publisher",
+        "/home/thpdev/ROS2/workspaces/begin/install/message_publisher/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/thpdev/ROS2/workspaces/begin/build/message_subscriber",
+        "/home/thpdev/ROS2/workspaces/begin/install/message_subscriber/lib/python3.12/site-packages",
+        "/home/thpdev/ROS2/workspaces/begin/build/message_publisher",
+        "/home/thpdev/ROS2/workspaces/begin/install/message_publisher/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
