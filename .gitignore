@@ -4,3 +4,10 @@
 **.venv**
 **bags**
 **commit.sh**
+.venv/
+__pycache__/
+*.pyc
+build/
+install/
+log/
+**.db**
